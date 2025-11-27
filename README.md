@@ -1,5 +1,3 @@
-# PlayKraft Wallet Service
-
 In-memory wallet service that powers Kraft Coin wallets with topup, reward and a simple concurrency test.
 
 - **Language:** Node.js + TypeScript
